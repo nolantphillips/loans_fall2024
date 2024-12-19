@@ -1,0 +1,67 @@
+{
+  "slider_fields": {
+    "Age": [
+      20,
+      144
+    ],
+    "Income": [
+      8000,
+      7200766
+    ],
+    "YearsExperience": [
+      0,
+      125
+    ],
+    "LoanAmount": [
+      500,
+      35000
+    ],
+    "InterestRate": [
+      5,
+      20
+    ],
+    "PercentIncome": [
+      0,
+      1
+    ],
+    "CreditScore": [
+      390,
+      850
+    ],
+    "YearsCreditHistory": [
+      2,
+      30
+    ]
+  },
+  "single_select_fields": {
+    "Gender": [
+      "female",
+      "male"
+    ],
+    "Education": [
+      "Associate",
+      "Bachelor",
+      "Doctorate",
+      "High School",
+      "Master"
+    ],
+    "HomeOwnership": [
+      "MORTGAGE",
+      "OTHER",
+      "OWN",
+      "RENT"
+    ],
+    "Intent": [
+      "DEBTCONSOLIDATION",
+      "EDUCATION",
+      "HOMEIMPROVEMENT",
+      "MEDICAL",
+      "PERSONAL",
+      "VENTURE"
+    ],
+    "PreviousLoanDefault": [
+      "No",
+      "Yes"
+    ]
+  }
+}
